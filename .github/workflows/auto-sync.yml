@@ -23,3 +23,5 @@ jobs:
         dst_token: ${{ secrets.GITEE_TOKEN }}
         mappings: ".github=>github"
         force_update: true
+        white_list: "LearningNote"
+
