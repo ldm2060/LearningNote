@@ -26,5 +26,5 @@ jobs:
         mappings: ".github=>github"
         force_update: true
         # 直接取当前项目的仓库名
-        static_list: ${{ github.event.repository.name }}
+        white_list: ${{ github.event.repository.name }}
 
