@@ -19,7 +19,7 @@ jobs:
       with:
         src: github/ldm2060
         dst: gitee/ldm2060
-        src_token: ${{ secrets.GITHUB_TOKEN | secrets.PERSONAL_ACCESS_TOKEN }}
+        src_token: ${{secrets.PERSONAL_ACCESS_TOKEN }}
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         cache_path: "/github/workspace/git-mirrors-cache"
