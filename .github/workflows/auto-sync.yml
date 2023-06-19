@@ -15,13 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Mirror the Github repos to Gitee.
-      uses: Yikun/hub-mirror-action@master
+      uses: x-actions/git-mirrors@main
       with:
         src: github/ldm2060
         dst: gitee/ldm2060
+        src_token: ${{ secrets.GITHUB_TOKEN | secrets.PERSONAL_ACCESS_TOKEN }}
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
+        cache_path: "/github/workspace/git-mirrors-cache"
         mappings: ".github=>github"
         force_update: true
-        white_list: "LearningNote"
+        # 直接取当前项目的仓库名
+        static_list: ${{ github.event.repository.name }}
 
