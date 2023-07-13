@@ -10,5 +10,5 @@ https://www.bilibili.com/video/BV1Wv411h7kN P1~P14
 
  ### week3
  卷积神经网络学习任务  
-  https://www.bilibili.com/video/BV1Wv411h7kN P31~33
+  https://www.bilibili.com/video/BV1Wv411h7kN P31~33  
   作业HW1、作业HW2、作业HW3的试验
