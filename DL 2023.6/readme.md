@@ -8,7 +8,12 @@ https://www.bilibili.com/video/BV1Wv411h7kN P1~P14
  机器学习和深度学习任务  
  https://www.bilibili.com/video/BV1Wv411h7kN P18~P25
 
- ### week3
+ ## week3
  1. 卷积神经网络学习任务  
  https://www.bilibili.com/video/BV1Wv411h7kN P31~33  
  2. 作业HW1、作业HW2、作业HW3的试验
+
+## week4
+1. 神经网络训练教程（自注意力机制、Transformer）  
+https://www.bilibili.com/video/BV1Wv411h7kN P38\~39,P48\~50  
+3. 作业HW4、作业HW5的试验
