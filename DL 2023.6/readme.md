@@ -17,3 +17,8 @@ https://www.bilibili.com/video/BV1Wv411h7kN P1~P14
 1. 神经网络训练教程（自注意力机制、Transformer）  
 https://www.bilibili.com/video/BV1Wv411h7kN P38\~39,P48\~50  
 3. 作业HW4、作业HW5的试验
+
+## week5
+1.GAN  
+https://www.bilibili.com/video/BV1Wv411h7kN P58~P61  
+3.作业HW6的试验
