@@ -22,3 +22,8 @@ https://www.bilibili.com/video/BV1Wv411h7kN P38\~39,P48\~50
 1.GAN  
 https://www.bilibili.com/video/BV1Wv411h7kN P58~P61  
 3.作业HW6的试验
+
+## week6
+1.自监督学习以及ChatGPT大语言模型（一）  
+https://www.bilibili.com/video/BV1Wv411h7kN P71~P73  
+3.作业HW7的试验
