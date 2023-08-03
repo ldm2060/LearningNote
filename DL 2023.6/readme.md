@@ -8,7 +8,7 @@ https://www.bilibili.com/video/BV1Wv411h7kN P1~P14
  机器学习和深度学习任务  
  https://www.bilibili.com/video/BV1Wv411h7kN P18~P25
 
- ## week3
+## week3
  1. 卷积神经网络学习任务  
  https://www.bilibili.com/video/BV1Wv411h7kN P31~33  
  2. 作业HW1、作业HW2、作业HW3的试验
@@ -19,11 +19,11 @@ https://www.bilibili.com/video/BV1Wv411h7kN P38\~39,P48\~50
 3. 作业HW4、作业HW5的试验
 
 ## week5
-1.GAN  
+1. GAN  
 https://www.bilibili.com/video/BV1Wv411h7kN P58~P61  
-3.作业HW6的试验
+3. 作业HW6的试验
 
 ## week6
-1.自监督学习以及ChatGPT大语言模型（一）  
+1. 自监督学习以及ChatGPT大语言模型（一）  
 https://www.bilibili.com/video/BV1Wv411h7kN P71~P73  
-3.作业HW7的试验
+3. 作业HW7的试验
